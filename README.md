@@ -2,7 +2,7 @@
 
 ## survey
 
-Privacy-preserving generation and publication of synthetic trajectory microdata: a comprehensive survey
+[Privacy-preserving generation and publication of synthetic trajectory microdata: a comprehensive survey](https://www.sciencedirect.com/science/article/pii/S1084804524001280)
 
 
 
