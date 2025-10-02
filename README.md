@@ -24,4 +24,29 @@
 14. https://github.com/akin2662/Inverse-Kinematics-Solver-and-Trajectory-generation | akin2662/Inverse-Kinematics-Solver-and-Trajectory-generation
 
 
-## 
+so far the tokyo tourist dataset is : 1177675 rows × 8 columns
+
+
+
+## TODO
+- 30 million trajectories
+- evaluate models
+
+
+- network between friends, social media (not start yet)
+
+  
+
+# Future Big Plan
+- Olympics
+  - mobility
+    - village (digital twin of westwood)
+    - mobility systems in LA
+      - game route network
+  - accessibility
+  - sustain (nope)  
+
+--- 
+
+# sidenote
+LA new law ads
