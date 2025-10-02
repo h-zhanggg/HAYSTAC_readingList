@@ -1,5 +1,7 @@
 # HAYSTAC_readingList
 
+## survey
+
 Privacy-preserving generation and publication of synthetic trajectory microdata: a comprehensive survey
 
 
