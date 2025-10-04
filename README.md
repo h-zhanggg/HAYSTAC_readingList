@@ -12,7 +12,7 @@
 2. ~~[GitHub - ami-iit/paper\_delia\_2025\_iros\_physics-informed\_trajectory\_generation](https://github.com/ami-iit/paper_delia_2025_iros_physics-informed_trajectory_generation)~~
 3. https://github.com/ConnectedSystems/DHWGenerator.jl | ConnectedSystems/DHWGenerator.jl: Synthetic DHW trajectory generation
 4. https://github.com/3DTopia/GenDoP | 3DTopia/GenDoP: GenDoP: Auto-regressive Camera Trajectory Generation as a Director of Photography
-5. https://github.com/xavgdtt/Swarm_TrajOpt | xavgdtt/Swarm_TrajOpt: Code for the paper &quot;Swarm-based trajectory generation and optimization for stress-aligned 3d printing&quot;
+5. ~~https://github.com/xavgdtt/Swarm_TrajOpt | xavgdtt/Swarm_TrajOpt: Code for the paper &quot;Swarm-based trajectory generation and optimization for stress-aligned 3d printing&quot;~~
 6. https://github.com/JokerJohn/PALoc | JokerJohn/PALoc: [TMECH'2024] Official codes of &rdquo;PALoc: Advancing SLAM Benchmarking with Prior-Assisted 6-DoF Trajectory Generation and Uncertainty Estimation&ldquo;
 7. https://github.com/caoji2001/HOSER | caoji2001/HOSER: [AAAI 2025] Holistic Semantic Representation for Navigational Trajectory Generation
 8. https://github.com/HRI-EU/AffAction | HRI-EU/AffAction: Robot motion generation with actions, affordances, trajectory generation and inverse kinematics
